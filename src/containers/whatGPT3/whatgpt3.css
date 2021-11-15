@@ -78,6 +78,7 @@
   line-height: 30px;
   color: var(--color-subtext);
   cursor: pointer;
+  text-transform: capitalize;
 }
 
 .gpt3-whatgpt3-container {

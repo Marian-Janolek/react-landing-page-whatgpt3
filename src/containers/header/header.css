@@ -60,6 +60,7 @@
   border: none;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
+  text-transform: capitalize;
 }
 .gpt3-header-content-people {
   width: 100%;
