@@ -1,4 +1,5 @@
 ## Responsive GPT-3 Landing Page
+### [Live Site](https://m-gpt-3.netlify.app/)
 
 - This is my another project with React which I built from the scratch. 
 - It's landing page about gpt-3, which is openAI.
